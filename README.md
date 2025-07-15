@@ -17,7 +17,7 @@ These are my personal configration files
 ```bash
   reboot now
 ```
-## .gitconfig/.bashrc files
+## .gitconfig/.bashrc/.bash_aliases files
 
 ### 1. First: Clone the repo or download it as a zip file
 ```bash
@@ -26,5 +26,5 @@ These are my personal configration files
 
 ### 2. Second: Copy the files into your home directory
 ```bash
-cp .bashrc .gitconfig ~/
+cp .bashrc .bash_aliases .gitconfig ~/
 ```
